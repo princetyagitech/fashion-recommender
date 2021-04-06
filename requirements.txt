@@ -8,6 +8,6 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 fastai==1.0.54
 Flask==1.1.1
-Werkzeug==0.14.1
+Werkzeug==0.15
 gunicorn==19.9.0
  
