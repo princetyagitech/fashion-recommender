@@ -1,7 +1,7 @@
 -f https://download.pytorch.org/whl/torch_stable.html torch==1.1.0+cpu torchvision==0.3.0+cpu
 numpy
 pandas
-Click==7.0
+Click==7.2
 Flask==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.10.1
