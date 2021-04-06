@@ -1,6 +1,6 @@
 fastai==1.0.61
-https://download.pytorch.org/whl/cpu/torch-1.5.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
+torchvision==0.6.0
 numpy
 pandas
 Click==7.1.1
