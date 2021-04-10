@@ -1,5 +1,6 @@
--f cpu/torch-1.7.0%2Bcpu-cp38-cp38-win_amd64.whl
-torchvision==0.8.2+cu110 
+-f https://download.pytorch.org /whl/torch_stable.html
+torch== 0.1.6
+torchvision==0.8.2
 fastai==1.0.57
 numpy
 pandas
