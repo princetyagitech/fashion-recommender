@@ -1,5 +1,7 @@
-
-fastai==1.0.61
+-f https: // download . pytorch . org /whl / torch_stable. html
+torch==1.7.1+cpu
+torchvision==0.8.2+cu110 
+fastai==1.0.57
 numpy
 pandas
 Click==7.1.1
