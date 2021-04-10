@@ -1,5 +1,5 @@
 -f https://download.pytorch.org /whl/torch_stable.html
-torch== 0.1.6
+torch== 0.1.2
 torchvision==0.8.2
 fastai==1.0.57
 numpy
